@@ -3,7 +3,7 @@ from conans import ConanFile, CMake, tools
 
 class RoseArrayConan(ConanFile):
     name = "rose-array"
-    version = "0.0.0"
+    version = "0.1.0"
     license = "MIT OR Apache-2.0"
     url = "https://github.com/markushedvall/rose-array"
     description = "Single header C++ library for arrays and fixed max sized vectors"
